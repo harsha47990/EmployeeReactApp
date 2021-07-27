@@ -1,0 +1,17 @@
+.submit {
+  /*margin: spacing(3, 0, 2);*/
+  background-color: blue;
+}
+body {
+  background-color: #ffffff;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+.DropDownList {
+  min-width: 200px;
+}
+
+.TextBox {
+  background-color: white;
+}
